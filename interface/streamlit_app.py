@@ -1,7 +1,6 @@
 import altair as alt
 import streamlit as st
 import pandas as pd
-import geopandas as gpd
 import numpy as np
 from data_to_chart_prep import (
     get_basemap,
