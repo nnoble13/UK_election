@@ -26,6 +26,11 @@ parties_full = [
     "Labour Party",
     "Liberal Democratic Party",
     "Other Parties",
+    "Other Parties",
+    "Other Parties",
+    "Other Parties",
+    "Other Parties",
+    "Other Parties",
 ]
 
 sidebar_title = """Predictions for England and Wales"""
