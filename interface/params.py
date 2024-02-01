@@ -1,5 +1,4 @@
 import altair as alt
-from google.cloud import storage
 
 
 url = "https://raw.githubusercontent.com/odileeds/hexmaps/gh-pages/maps/uk-constituencies-2019-BBC.hexjson"
